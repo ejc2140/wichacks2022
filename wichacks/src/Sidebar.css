@@ -67,25 +67,25 @@
 
   /*Link before visiting*/
   a{
-  	color: #A4BAB7;
+  	color: #0D7AD3;
   	text-decoration: none;
   }
 
   /*Link after visiting*/
   a:visited{
-  	color: #553592;
+  	color: #063760;
   	text-decoration: none;
   }
 
   /*Link on hover*/
   a:hover {
-  	color: #048A81;
+  	color: #FF66B3;
   	text-decoration: none;
   }
 
   /*Link while clicking*/
   a:active{
-  	color: #A3C3D9;
+  	color: #FFF07C;
   	text-decoration: none;
   }
   
