@@ -8,8 +8,6 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Educator from './educator';
 import Student from './student';
 
-<title>Raccoon Rex's Journey of Internet Safety</title>
-
 ReactDOM.render(
     <Router>
 
