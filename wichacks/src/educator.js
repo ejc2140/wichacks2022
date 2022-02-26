@@ -4,6 +4,7 @@ import Sidebar from './Sidebar';
 
 function Educator() {
   return (
+
     <div className="App">
       <Sidebar pageWrapId={'page-wrap'} outerContainerId={'outer-container'} />
       <header className="App-header">
