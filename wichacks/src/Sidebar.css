@@ -64,4 +64,28 @@
   .bm-overlay {
     background: rgba(0, 0, 0, 0.3);
   }
+
+  /*Link before visiting*/
+  a{
+  	color: #A4BAB7;
+  	text-decoration: none;
+  }
+
+  /*Link after visiting*/
+  a:visited{
+  	color: #553592;
+  	text-decoration: none;
+  }
+
+  /*Link on hover*/
+  a:hover {
+  	color: #048A81;
+  	text-decoration: none;
+  }
+
+  /*Link while clicking*/
+  a:active{
+  	color: #A3C3D9;
+  	text-decoration: none;
+  }
   
