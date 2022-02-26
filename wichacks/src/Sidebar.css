@@ -39,7 +39,7 @@
   
   /* General sidebar styles */
   .bm-menu {
-    background: #0B64AD;
+    background: #3FA2F3;
     padding: 2.5em 1.5em 0;
     font-size: 35px;
   }
@@ -67,13 +67,13 @@
 
   /*Link before visiting*/
   a{
-  	color: #0D7AD3;
+  	color: #0A5999;
   	text-decoration: none;
   }
 
   /*Link after visiting*/
   a:visited{
-  	color: #063760;
+  	color: #010B13;
   	text-decoration: none;
   }
 
