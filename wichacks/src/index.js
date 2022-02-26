@@ -13,7 +13,8 @@ ReactDOM.render(
 
        <Routes>
 
-        <Route path='/Student' element={<Student />}></Route>
+        <Route path='/' element={<App/>} />
+        <Route path="/Student" element={<Student />}></Route>
         <Route path="/Parent" element={<Parent />}></Route>
         <Route path="/Educator" element={<Educator />}></Route>
 
