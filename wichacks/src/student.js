@@ -2,14 +2,14 @@ import logo from './logo.svg';
 import './App.css';
 import Sidebar from './Sidebar';
 
-function Parent() {
+function Student() {
   return (
     <div className="App">
       <Sidebar pageWrapId={'page-wrap'} outerContainerId={'outer-container'} />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            Parents :)
+            Students :)
          </p>
         
       </header>
@@ -17,4 +17,4 @@ function Parent() {
   );
 }
 
-export default Parent;
+export default Student;

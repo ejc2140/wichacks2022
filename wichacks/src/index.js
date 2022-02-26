@@ -6,6 +6,7 @@ import Parent from './parent';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; 
 import Educator from './educator';
+import Student from './student';
 
 ReactDOM.render(
     <Router>
@@ -13,6 +14,7 @@ ReactDOM.render(
        <Routes>
 
         <Route path='/' element={<App/>} />
+        <Route path="/Student" element={<Student />}></Route>
         <Route path="/Parent" element={<Parent />}></Route>
         <Route path="/Educator" element={<Educator />}></Route>
 
