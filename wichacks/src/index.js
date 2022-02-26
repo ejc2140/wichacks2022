@@ -6,7 +6,7 @@ import Parent from './parent';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; 
 import Educator from './educator';
-import Student from './student';
+import Student from './Student/main';
 
 ReactDOM.render(
     <Router>
