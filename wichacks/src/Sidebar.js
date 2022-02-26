@@ -12,10 +12,10 @@ export default props => {
         Students
       </a>
       <a className="menu-item" href="/parent">
-        Parent
+        Parents
       </a>
       <a className="menu-item" href="/educator">
-        Educator
+        Educators
       </a>
     </Menu>
   );

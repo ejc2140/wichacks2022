@@ -39,7 +39,7 @@
   
   /* General sidebar styles */
   .bm-menu {
-    background: #0B64AD;
+    background: #3FA2F3;
     padding: 2.5em 1.5em 0;
     font-size: 35px;
   }
@@ -63,5 +63,29 @@
   /* Styling of overlay */
   .bm-overlay {
     background: rgba(0, 0, 0, 0.3);
+  }
+
+  /*Link before visiting*/
+  a{
+  	color: #0A5999;
+  	text-decoration: none;
+  }
+
+  /*Link after visiting*/
+  a:visited{
+  	color: #010B13;
+  	text-decoration: none;
+  }
+
+  /*Link on hover*/
+  a:hover {
+  	color: #FF66B3;
+  	text-decoration: none;
+  }
+
+  /*Link while clicking*/
+  a:active{
+  	color: #FFF07C;
+  	text-decoration: none;
   }
   
