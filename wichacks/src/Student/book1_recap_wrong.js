@@ -9,7 +9,13 @@ function Book1_Recap_Wrong() {
       <header className="App-header">
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
         <p>Book 1: The Monsterific Playdate</p>
-        You DID NOT MAKE right choices :(
+        <p className="black_text">
+          Our friend Clyde had quite the dilemma! Clyde knows now that they should never visit a webpage without permission. 
+          <br></br>
+          Now that you are an online safety whiz always remember to ask your parents for permission to go to a website before you visit!
+        </p>
+
+
         
       </header>
     </div>
