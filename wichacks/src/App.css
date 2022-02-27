@@ -48,6 +48,13 @@ ul{
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
+.button{
+  background-color: #F8E16C;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
 .under{
   text-decoration: underline;
 }
