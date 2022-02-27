@@ -11,11 +11,11 @@ function Book1_Part2_Right() {
         <p>Book 1: The Monsterific Playdate</p>
         <img src="/Book1/book1_part2_right.jpg" width="700" height="400"/>
         <p className='black_text'>
-          Question 2 
+          Did Clyde make the right decision?
           <br></br>
-          What should Clyde do?</p>
-        <a href="/book2"> <button type="button">Option 1</button></a>
-        <a href="/book2"> <button type="button">Option 2</button></a>
+          </p>
+        <a href="/book2"> <button type="button">Yes</button></a>
+        <a href="/book2"> <button type="button">No</button></a>
         <br></br>
         <a className='black_text' href="/book1"> Click Here To Go Back To Part 1</a>
         <br></br>
