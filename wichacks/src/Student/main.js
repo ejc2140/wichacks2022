@@ -9,9 +9,7 @@ function student() {
       <Sidebar pageWrapId={'page-wrap'} outerContainerId={'outer-container'} />
       <header className="App-header">
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
-        <p>
-            Select a Comic below to get started! 
-         </p>
+        <img src="rex_student.png" />
         
       </header>
     </div>

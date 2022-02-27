@@ -8,6 +8,7 @@ function Parent() {
       <Sidebar pageWrapId={'page-wrap'} outerContainerId={'outer-container'} />
       <header className="App-header">
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
+        <img src="rex_parent.png" />
         <p>
             Parents :)
          </p>
