@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; 
 import Educator from './educator';
 import Student from './Student/main';
+import About from './about';
 
 ReactDOM.render(
     <Router>
@@ -17,6 +18,7 @@ ReactDOM.render(
         <Route path="/Student" element={<Student />}></Route>
         <Route path="/Parent" element={<Parent />}></Route>
         <Route path="/Educator" element={<Educator />}></Route>
+        <Route path="/About" element={<About />}></Route>
 
         </Routes>
   </Router>,

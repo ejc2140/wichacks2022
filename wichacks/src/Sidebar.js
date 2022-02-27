@@ -17,6 +17,9 @@ export default props => {
       <a className="menu-item" href="/educator">
         Educators
       </a>
+      <a className="menu-item" href="/about">
+        About
+      </a>
       <a className="menu-item" href="https://www.instagram.com/raccoon_rex_loves_int_safety/">
         <img src="insta.png" height="50" width="50"/>
       </a>
