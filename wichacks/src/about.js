@@ -16,8 +16,11 @@ function About() {
          <p>
             I was created at the Women In Computing Hackathon, WiCHacks!
          </p> 
+         <p>
+            Be sure to follow me on <a href="https://www.instagram.com/raccoon_rex_loves_int_safety/">Instagram!</a>
+         </p> 
          <p className="black_text">
-           The team consists of 4 women, Emily Crilley, Kelsey Donovan, Jaime Campanelli, and Alanna Luce.
+           The team that created me consists of 4 women, Emily Crilley, Kelsey Donovan, Jaime Campanelli, and Alanna Luce.
           </p>
           <p className="black_text">
            <class className="under">Emily Crilley:</class> A 5th year Software Engineering Student, Current WiC Logistics Head. <br></br> Fun Fact: "Whistles like normal."
