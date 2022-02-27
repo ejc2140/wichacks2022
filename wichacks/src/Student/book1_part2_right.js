@@ -17,7 +17,9 @@ function Book1_Part2_Right() {
         <a href="/book2"> <button type="button">Option 1</button></a>
         <a href="/book2"> <button type="button">Option 2</button></a>
         <br></br>
-        
+        <a className='black_text' href="/book1"> Click Here To Go Back To Part 1</a>
+        <br></br>
+
       </header>
     </div>
   );
