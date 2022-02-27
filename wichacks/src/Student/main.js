@@ -11,7 +11,9 @@ function student() {
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
         <img src="rex_student.png" />
         <br></br>
-        <img src="rex_book1.png" href="/book1"/>
+        <a href="/book1"> <img src="rex_book1.png"/></a>
+        <br></br>
+        <a href="/book2"> <img src="rex_book2.png"/></a>
       </header>
     </div>
   );
