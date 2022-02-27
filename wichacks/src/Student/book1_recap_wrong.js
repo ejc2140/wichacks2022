@@ -8,7 +8,8 @@ function Book1_Recap_Wrong() {
       <Sidebar pageWrapId={'page-wrap'} outerContainerId={'outer-container'} />
       <header className="App-header">
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
-        <p>Book 1: The Monsterific Playdate</p>
+        <p>Book 1: The Monsterific Playdate Recap</p>
+        <img src="rex_good_job.png" />
         <p className="black_text">
           Our friend Clyde had quite the dilemma! Clyde knows now that they should never visit a webpage without permission. 
           <br></br>

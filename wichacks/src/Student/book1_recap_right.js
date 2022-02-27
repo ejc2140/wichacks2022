@@ -8,7 +8,8 @@ function Book1_Recap_Right() {
       <Sidebar pageWrapId={'page-wrap'} outerContainerId={'outer-container'} />
       <header className="App-header">
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
-        <p>Book 1: The Monsterific Playdate</p>
+        <p>Book 1: The Monsterific Playdate Recap</p>
+        <img src="rex_good_job.png" />
         <p className="black_text">
           Our friend Clyde had quite the dilemma! Thankfully they had you- an online safety whiz- to help them make the right choice! Clyde will always get permission from their parents before going to a webpage!
           <br></br>
