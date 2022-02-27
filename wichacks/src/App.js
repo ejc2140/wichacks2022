@@ -9,18 +9,7 @@ function App() {
       <header className="App-header">
         <title>Raccoon Rex’s Library of Internet Safety</title>
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img src="rex_quote.png" />
       </header>
     </div>
   );
