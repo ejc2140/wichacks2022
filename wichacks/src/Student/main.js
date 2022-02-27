@@ -10,7 +10,8 @@ function student() {
       <header className="App-header">
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
         <img src="rex_student.png" />
-        
+        <br></br>
+        <img src="rex_book1.png" href="/book1"/>
       </header>
     </div>
   );
