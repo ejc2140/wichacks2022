@@ -8,6 +8,8 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Educator from './educator';
 import Student from './Student/main';
 import About from './about';
+import Book1 from './Student/book1';
+import Book2 from './Student/book2';
 
 ReactDOM.render(
     <Router>
@@ -19,6 +21,8 @@ ReactDOM.render(
         <Route path="/Parent" element={<Parent />}></Route>
         <Route path="/Educator" element={<Educator />}></Route>
         <Route path="/About" element={<About />}></Route>
+        <Route path="/Book1" element={<Book1 />}></Route>
+        <Route path="/Book2" element={<Book2 />}></Route>
 
         </Routes>
   </Router>,
