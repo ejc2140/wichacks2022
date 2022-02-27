@@ -10,6 +10,8 @@ import Student from './Student/main';
 import About from './about';
 import Book1 from './Student/book1';
 import Book2 from './Student/book2';
+import Book1_Part2_Right from './Student/book1_part2_right';
+import Book1_Part2_Wrong from './Student/book1_part2_wrong';
 
 ReactDOM.render(
     <Router>
@@ -23,6 +25,8 @@ ReactDOM.render(
         <Route path="/About" element={<About />}></Route>
         <Route path="/Book1" element={<Book1 />}></Route>
         <Route path="/Book2" element={<Book2 />}></Route>
+        <Route path="/Book1_Part2_Right" element={<Book1_Part2_Right />}></Route>
+        <Route path="/Book1_Part2_Wrong" element={<Book1_Part2_Wrong />}></Route>
 
         </Routes>
   </Router>,
