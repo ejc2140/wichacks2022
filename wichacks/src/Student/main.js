@@ -9,6 +9,7 @@ function student() {
       <Sidebar pageWrapId={'page-wrap'} outerContainerId={'outer-container'} />
       <header className="App-header">
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
+        <br></br>
         <img src="rex_student.png" />
         <br></br>
         <a href="/book1"> <img src="rex_book1.png"/></a>
