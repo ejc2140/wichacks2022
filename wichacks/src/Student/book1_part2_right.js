@@ -14,8 +14,8 @@ function Book1_Part2_Right() {
           Did Clyde make the right decision?
           <br></br>
           </p>
-        <a href="/book2"> <button className='button' type="button">Yes</button></a>
-        <a href="/book2"> <button className='button' type="button">No</button></a>
+        <a href="/book1_recap_right"> <button className='button' type="button">Yes</button></a>
+        <a href="/book1_recap_wrong"> <button className='button' type="button">No</button></a>
         <br></br>
         <a className='black_text' href="/book1"> Click Here To Go Back To Part 1</a>
         <br></br>

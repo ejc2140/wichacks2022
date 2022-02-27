@@ -9,7 +9,7 @@ function Book1_Recap_Wrong() {
       <header className="App-header">
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
         <p>Book 1: The Monsterific Playdate</p>
-        You made both the right choices!
+        You DID NOT MAKE right choices :(
         
       </header>
     </div>
