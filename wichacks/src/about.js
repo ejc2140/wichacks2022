@@ -23,7 +23,7 @@ function About() {
            <class className="under">Emily Crilley:</class> A 5th year Software Engineering Student, Current WiC Logistics Head. <br></br> Fun Fact: "Whistles like normal."
           </p>
           <p className="black_text">
-           <class className="under">Kelsey Donovan:</class> A 4th year Software Engineering Student, Former WiC Outreach Committee Co-Head. <br></br> Fun Fact: She has whittled a canoe.
+           <class className="under">Kelsey Donovan:</class> A 4th year Software Engineering Student, Former WiC Outreach Committee Co-Head. <br></br> Fun Fact: She has probably whittled a canoe.
            </p>
           <p className="black_text">
            <class className="under">Jaime Campanelli:</class> A 3rd year Computing Security Student, Current WiC Outreach Committee Head. <br></br> Fun Fact: Hasn't eaten enough play dough.
