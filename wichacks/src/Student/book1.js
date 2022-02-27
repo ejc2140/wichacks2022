@@ -14,8 +14,8 @@ function Book1() {
           Clyde knows that they are not allowed to visit any websites without their parents' permission. They want to visit the website that Grace showed them this morning. Grace's parents allow her to visit the webpage. 
           <br></br>
           What should Clyde do?</p>
-        <a href="/book1_part2_right"> <button type="button">Go to their parents and ask if they can go to the website.</button></a>
-        <a href="/book1_part2_wrong"> <button type="button">Go to the website anyway.</button></a>
+        <a href="/book1_part2_right"> <button className='button' type="button">Go to their parents and ask if they can go to the website.</button></a>
+        <a href="/book1_part2_wrong"> <button className='button' type="button">Go to the website anyway.</button></a>
         <br></br>
         
       </header>
