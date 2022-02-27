@@ -30,6 +30,16 @@
   color: #61dafb;
 }
 
+.black_text{
+  color: black;
+  font-size: calc(7px + 2vmin);
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.under{
+  text-decoration: underline;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

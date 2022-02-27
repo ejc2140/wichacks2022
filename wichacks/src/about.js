@@ -10,7 +10,26 @@ function About() {
         <h1>Raccoon Rex’s Library of Internet Safety</h1>
         <img src="rex_about.png" />
         <p>
-            About :)
+            Hey All! <br></br> 
+            This page is about the four lovely people who created me.
+         </p>
+         <p>
+            I was created at the Women In Computing Hackathon, WiCHacks!
+         </p> 
+         <p className="black_text">
+           The team consists of 4 women, Emily Crilley, Kelsey Donovan, Jaime Campanelli, and Alanna Luce.
+          </p>
+          <p className="black_text">
+           <class className="under">Emily Crilley:</class> A 5th year Software Engineering Student, Current WiC Logistics Head. <br></br> Fun Fact: "Whistles like normal."
+          </p>
+          <p className="black_text">
+           <class className="under">Kelsey Donovan:</class> A 4th year Software Engineering Student, Former WiC Outreach Committee Co-Head. <br></br> Fun Fact: She has whittled a canoe.
+           </p>
+          <p className="black_text">
+           <class className="under">Jaime Campanelli:</class> A 3rd year Computing Security Student, Current WiC Outreach Committee Head. <br></br> Fun Fact: Hasn't eaten enough play dough.
+           </p>
+          <p className="black_text">
+           <class className="under">Alanna Luce:</class> A 3rd year Computer Science Student, Current WiC Active Member. <br></br> Fun Fact: Occasionally accidently cosplays as a clown. Cannot make balloon animals though :(
          </p>
         
       </header>
